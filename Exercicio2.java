@@ -1,5 +1,8 @@
+/*Criar um algoritmo que leia 10 números. Imprima quantos números são pares e quantos são 
+ímpares. O valor 0 (zero) deve ser desconsiderado. */
+
 import java.util.Scanner;
-public class Exercicio {
+public class Exercicio2 {
     public static void main(String[]args){
         Scanner ler = new Scanner(System.in);
 
