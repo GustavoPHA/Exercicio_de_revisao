@@ -11,7 +11,7 @@ public class Exercicio3 {
     public static void main(String[]args){
         Scanner ler = new Scanner(System.in);
 
-        int qtdPositivos, qtdNegativos, somNegativos=0, somPositivos=0, i=0, num;
+        int somNegativos=0, somPositivos=0, i=0, num;
 
         while (i<=15) {
             System.out.println("Digite um número: ");
